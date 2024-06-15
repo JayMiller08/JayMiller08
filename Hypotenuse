@@ -1,2 +1,21 @@
 import java.lang.Math;
 import java.util.Scaner;
+public class Hypotenuse{
+  public static void main (String[] args){
+     
+     Scanner scanner = new Scanner(System.in);
+
+     double a, b, c, d;
+     
+     System.out.println("Please enter the first side: ");  
+     a = scanner.nextDouble();
+     System.out.println("Please enter the second side: ");
+     b = scanner.nextDouble();
+     
+     c = Math.sqrt((a*a) + (b*b));
+     d = Math.round(c * 100.0)/100.0;
+    
+     System.out.println("The hypotenuse is "+ d);
+
+  }
+}
