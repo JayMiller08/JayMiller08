@@ -1,6 +1,6 @@
 # Hi there 👋 I’m Kwandumusa “Jay” Mthethwa (@JayMiller08)
 
-🎓 First-year University student at Tshwane University of Technology  
+🎓 Second-year University student at Tshwane University of Technology  
 💻 Learning **Java** and building small CLI projects  
 💡 Interested in collaborating on open-source Java projects  
 🕹️ Chess player & anime enthusiast  
