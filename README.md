@@ -36,8 +36,11 @@
 
 | Project | Description | Language | Stars |
 |--------|-------------|----------|-------|
-| **ATM‑Simulator** | Java CLI ATM simulation (create account, deposit/withdraw) | Java | ★ 0 |
-| **BANK** | Multi‑account banking CLI tool with account number, PIN, transaction history | Java | ★ 1 |
+| **ATM‑Simulator** | Java CLI ATM simulation with account creation, deposits, withdrawals, and balance tracking. | Java | ★ 0 |
+| **BANK** | Multi‑account banking CLI tool featuring account numbers, PIN authentication, age calculation, and coupon rewards. | Java | ★ 1 |
+| **Expense-Tracker** | Tracks expenses by category, allows total calculation, filtering, and plans for future persistence and authentication. | Java | ★ 0 |
+| **Student-Result-Management-System** | CLI application to manage student marks, grades, and reports. | Java | ★ 0 |
+| **Store-Inventory-Manager** | Simple inventory system with employee/manager roles, stock updates, and product search. | Java | ★ 0 |
 
 *(All projects are public on my GitHub profile.)*
 
@@ -45,28 +48,28 @@
 
 ## 👉 What I’m Doing Now
 
-- Learning Java fundamentals daily  
-- Building more CLI tools (e.g., banking systems, simulators)  
-- Collaborating with others on Java-based open-source  
+- Expanding my understanding of Java and OOP principles  
+- Building new CLI-based utilities to deepen my practical knowledge  
+- Learning about data persistence, file I/O, and exception handling  
+- Looking into JavaFX and simple GUI design next  
 
 ---
 
 ## 📫 How to Reach Me
 
 - GitHub: [@JayMiller08](https://github.com/JayMiller08)  
-- Instagram: [@thereeljaymiller](https://instagram.com/thereeljaymiller)
-- LinkedIn: [@kwandumusamthethwa](https://www.linkedin.com/in/kwandumusa-mthethwa-6b7381236/)
+- Instagram: [@thereeljaymiller](https://instagram.com/thereeljaymiller)  
+- LinkedIn: [@kwandumusamthethwa](https://www.linkedin.com/in/kwandumusa-mthethwa-6b7381236/)  
 
 ---
 
 ## 🤝 Let’s Collaborate!
 
-Feel free to explore my projects, open issues, or send me a message if you want to team up or share tips. I’m excited to grow and learn together!
+Feel free to explore my repositories, fork a project, or open an issue.  
+I’m open to collaboration and feedback — always learning, always coding!
 
 ---
 
 ### 🔗 Quick Links
 
 [![Java Badge](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)]()
-
-
